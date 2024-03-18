@@ -1,0 +1,24 @@
+.text-light {
+  color: var(--white) !important;
+}
+.text-blue {
+  color: var(--blue) !important;
+}
+.text-gray {
+  color: var(--gray) !important;
+}
+.text-right {
+  text-align: right !important;
+}
+.bg-green {
+  background-color: #04cb66 !important;
+}
+.bg-blue {
+  background-color: #276bfe !important;
+}
+.bg-yellow {
+  background-color: #f1b500 !important;
+}
+.bg-light {
+  background-color: #e4eaef !important;
+}

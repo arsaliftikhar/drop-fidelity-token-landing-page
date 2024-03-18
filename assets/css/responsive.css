@@ -1,0 +1,51 @@
+@media (max-width: 992px) {
+  body,
+  html {
+    font-size: 14px;
+  }
+  .navbar .navbar-brand img {
+    width: 170px;
+    height: 36.09px;
+  }
+  .heading-01 {
+    font-size: 34px !important;
+  }
+  .heading-02 {
+    font-size: 28px !important;
+  }
+  .hero-section {
+    background-position: bottom right;
+  }
+  .body-wrapper {
+    background-size: 60%;
+  }
+  .partner .heading-02 {
+    margin-bottom: 10px;
+  }
+  .lists .list-section-wrapper .list-heading {
+    background-color: transparent !important;
+    padding-left: 0px !important;
+    font-size: 16px;
+  }
+  .lists .list-section-wrapper p {
+    padding-left: 0px !important;
+  }
+  .lists .list-section-wrapper .list-heading.bg-green {
+    color: #04cb66 !important;
+  }
+  .lists .list-section-wrapper .list-heading.bg-blue {
+    color: #276bfe !important;
+  }
+  .lists .list-section-wrapper .list-heading.bg-yellow {
+    color: #f1b500 !important;
+  }
+  .lists .list-section-wrapper .list-heading.bg-light {
+    color: #e4eaef !important;
+  }
+  .bg-body-wrapper {
+    background-size: 130% 100%;
+  }
+  .contact-body-wrapper .contact-wrapper {
+    padding: 20px 20px;
+  }
+}
